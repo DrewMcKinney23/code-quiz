@@ -1,7 +1,7 @@
 var questions = [
     {
         title: "What is the default behavior called that is used to move declarations to the top of the current scope?",
-        choices: [ "Jumping", "Arranging", "Sorting", "Hoisting"],
+        choices: ["Jumping", "Arranging", "Sorting", "Hoisting"],
         answer: "Hoisting"
     },
     {
@@ -11,17 +11,17 @@ var questions = [
     },
     {
         title: "What is the name of the object that allows you to perform mathematical tasks with the interpreter?",
-        choices: [ "Number", "Solve", "Count", "Math"],
+        choices: ["Number", "Solve", "Count", "Math"],
         answer: "Math"
     },
     {
         title: "What kind of statement is used to execute actions based on a trigger or condition?",
-        choices: [ "Fired Event", "Conditional Statement", "Regular Expression", "Boolean Variable"],
+        choices: ["Fired Event", "Conditional Statement", "Regular Expression", "Boolean Variable"],
         answer: "Conditional Statement"
     },
     {
         title: "What is a JavaScript element that represents either TRUE or FALSE values?",
-        choices: [ "Boolean", "RegExp", "Condition", "EVent"],
+        choices: ["Boolean", "RegExp", "Condition", "Event"],
         answer: "Boolean"
     }
 ];

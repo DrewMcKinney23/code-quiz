@@ -63,7 +63,7 @@ function checkAnswer(answer) {
     }
     else {
         secondsElapsed += 10;
-        displayMessage("Wrong...");
+        displayMessage("Wrong!");
     }
 }
 
