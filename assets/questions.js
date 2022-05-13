@@ -1,59 +1,27 @@
-// creating an array and passing the number, questions, options, and answers
-let questions = [
+var questions = [
     {
-    numb: 1,
-    question: "What is the default behavior called that is used to move declarations to the top of the current scope?",
-    answer: "String",
-    options: [
-      "Jumping",
-      "Arranging",
-      "Sorting",
-      "Hoisting"
-    ]
-  },
+        title: "What is the default behavior called that is used to move declarations to the top of the current scope?",
+        choices: [ "Jumping", "Arranging", "Sorting", "Hoisting"],
+        answer: "Hoisting"
+    },
     {
-    numb: 2,
-    question: "What is the element called that can continue to execute a block of code as long as the specified condition remains TRUE?",
-    answer: "Loop",
-    options: [
-      "Repeater",
-      "Loop",
-      "Debugger",
-      "Clone"
-    ]
-  },
+        title: "What is the element called that can continue to execute a block of code as long as the specified condition remains TRUE?",
+        choices: ["Repeater", "Loop", "Debugger", "Clone"],
+        answer: "Loop"
+    },
     {
-    numb: 3,
-    question: "What is the name of the object that allows you to perform mathematical tasks with the interpreter?",
-    answer: "Math",
-    options: [
-      "Number",
-      "Solve",
-      "Count",
-      "Math"
-    ]
-  },
+        title: "What is the name of the object that allows you to perform mathematical tasks with the interpreter?",
+        choices: [ "Number", "Solve", "Count", "Math"],
+        answer: "Math"
+    },
     {
-    numb: 4,
-    question: "What kind of statement is used to execute actions based on a trigger or condition?",
-    answer: "Conditional Statement",
-    options: [
-      "Fired Event",
-      "Conditional Statement",
-      "Regular Expression",
-      "Boolean Variable"
-    ]
-  },
+        title: "What kind of statement is used to execute actions based on a trigger or condition?",
+        choices: [ "Fired Event", "Conditional Statement", "Regular Expression", "Boolean Variable"],
+        answer: "Conditional Statement"
+    },
     {
-    numb: 5,
-    question: "What is a JavaScript element that represents either TRUE or FALSE values?",
-    answer: "Boolean",
-    options: [
-      "Boolean",
-      "RegExp",
-      "Condition",
-      "EVent"
-    ]
-  },
-  
+        title: "What is a JavaScript element that represents either TRUE or FALSE values?",
+        choices: [ "Boolean", "RegExp", "Condition", "EVent"],
+        answer: "Boolean"
+    }
 ];
