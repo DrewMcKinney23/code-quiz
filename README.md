@@ -18,4 +18,4 @@ https://drewmckinney23.github.io/code-quiz/
 ## Contribution
 Made with ❤️ by Drew McKinney
 
-<img width="1019" alt="Screen Shot 2022-05-12 at 11 40 24 PM" src="https://user-images.githubusercontent.com/100231461/168206890-570965f4-9a4c-4ad5-ab9e-2cc9a54f7077.png">
+<img width="1099" alt="Screen Shot 2022-05-13 at 11 40 44 AM" src="https://user-images.githubusercontent.com/100231461/168319604-d72e84c9-0e56-4891-9a46-dd6d918348e0.png">
