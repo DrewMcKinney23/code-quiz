@@ -9,7 +9,7 @@ Click the 'Start Quiz' button to begin.  There will be a series of questions you
 ## Built With
 * HTML
 * CSS
-* *Javascript
+* Javascript
 
 ## Website
 https://drewmckinney23.github.io/code-quiz/
