@@ -6,7 +6,7 @@
 }
 
 #welcome, #quiz, #inputScore, #highScores {
-    width: 70%;
+    width: 60%;
 }
 
 #quiz, #inputScore, #highScores {
@@ -17,6 +17,12 @@
     background-color: white;
 }
 
+.btn {
+    background-color: purple
+}
 
+h2 {
+    font-size: small;
+}
 
 
